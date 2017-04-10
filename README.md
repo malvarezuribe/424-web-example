@@ -9,3 +9,6 @@ To have code we can use for hands on exercise
 
 ##Conflict on Master
 this section will be differnet omn the conflictbranch
+
+## Method
+how will we resove this conflict.
