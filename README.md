@@ -6,3 +6,6 @@ This Porject enables us to learn source code controil usimng Git
 
 ##Purpose
 To have code we can use for hands on exercise
+
+##Conflict on Master
+this section will be differnet omn the conflictbranch
