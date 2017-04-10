@@ -10,5 +10,5 @@ To have code we can use for hands on exercise
 ##Conflict on Master
 this section will be differnet omn the conflictbranch
 
-## Method
-how will we resove this conflict.
+## No More Conflicts
+We can now merge back into master with out truble.
